@@ -11,3 +11,5 @@ Key words to remember when playing with Subversion & GIT
 9. Push: Uploads or sends all of your commits to the Master Repository 
 10. Fetch: Downloads all of the commits from the Master Repository to your Local Repository (DOES NOT MERGE)
 11. Pull: Downloads all of the commits from the Master Repository to your Local Repository AND MERGES your most recent commit
+
+from video: https://www.youtube.com/watch?v=1lBdlh3AGSc
